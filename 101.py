@@ -6,4 +6,4 @@ Date: Jun 17th 2023
 enough
 '''
 
-printf("Hello world!!!")
+print("Hello world!!!")
